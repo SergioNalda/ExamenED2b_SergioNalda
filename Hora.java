@@ -3,7 +3,7 @@ package examen;
 /**
  * Esta clase pretende comprobar que la hora que se da es valida y correcta
  * @author Sergio Nalda
- * 
+ * @version 1.1
  */
 
 public class Hora {
